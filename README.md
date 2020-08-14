@@ -1,2 +1,2 @@
 # Human-Maladies-Detection
-The project will become open source.
+The project has been shelved due to the project owner's privat reasons. 
